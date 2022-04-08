@@ -7,7 +7,7 @@
 
 [There are also links](https://ucsd.edu/)
 
-![Lets ad some pictures to](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F5277%2F5277377.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgood-job_5277377&tbnid=-JCim6Yx5HIZSM&vet=12ahUKEwjo-cb3qIP3AhVlFzQIHe8IBfUQMygCegUIARDkAQ..i&docid=ZszKgv7KUl4B2M&w=512&h=512&q=good%20job%20icon&ved=2ahUKEwjo-cb3qIP3AhVlFzQIHe8IBfUQMygCegUIARDkAQ)
+![Lets ad some pictures to](https://cdn-icons-png.flaticon.com/512/5277/5277377.png)
 
 >Here is aa blockquote
 
