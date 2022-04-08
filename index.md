@@ -31,3 +31,10 @@ print("This is awesome!")
 ```
 
 Isn't md great?
+
+I am adding a new line to this file through VS code
+
+Here is one method of creating a local repo:
+1. On the repo page click code and then open code on github desktop
+2. From github desktop click clone repo and choose a directoy
+3. And boom a local git repo should be on the directory you chose
