@@ -9,7 +9,7 @@
 
 ![Lets ad some pictures to](https://cdn-icons-png.flaticon.com/512/5277/5277377.png)
 
->Here is aa blockquote
+>Here is a blockquote
 
 Here is a list of items:
 - Item 1
