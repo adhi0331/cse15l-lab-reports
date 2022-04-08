@@ -17,9 +17,9 @@ Here is a list of items:
 - Item 3
 
 There are numbered lists to:
-1) Uno
-2) Deux
-3) Tres
+1. Uno
+2. Deux
+3. Tres
 
 If you need a break create a horizontal break:
 ---
