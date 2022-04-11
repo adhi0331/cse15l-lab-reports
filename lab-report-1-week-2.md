@@ -1,4 +1,5 @@
 # Accessing Remote Servers
+## By: Adhithya Ananthan
 In this blog, we will explore how to remotely access servers from our local computer. Understanding how to do this is important because in our future careers we will be required to access organization's servers to do various tasks. The following sections provide a step-by-step guide on using ssh/scp technologies.
 
 ---
