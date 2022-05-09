@@ -27,6 +27,7 @@ And this is me doing a similar thing but using `scp` instead of `ssh`. The full 
 Intially when trying to push a change to github via a remote server we get this error message. This is because we need to configure a remote server, in this case ieng6, to be able to do pushes to github.
 
 ![](/labreport3-screenshots/option2/usingKeygen.png)
+
 In order to configure the remote server we need to create rsa keys on the remote server. Shown above is me using `ssh-keygen` to create the keys needed.
 
 ![](/labreport3-screenshots/option2/keyInRemoteComputer.png)
@@ -50,7 +51,7 @@ In the above picture I used the command `scp -r . cs15lsp22aud@ieng6.ucsd.edu:~/
 
 ![](/labreport3-screenshots/option3/runningCopiedMarkdownParse.png)
 
-We can then see in this image that I was able to run the copied markdown parse file test in the remote server after I ssh into it. However doing this could be tedious since it requires me to move it, wait for the server to connect, and then run additional tests to run the tests. 
+We can then see in this image that I was able to run the copied markdown parse file test in the remote server after I ssh into it. However doing this could be tedious since it requires me to move it, wait for the server to connect, and then run additional commands to run the tests. 
 
 ![](/labreport3-screenshots/option3/oneLine1.png)
 
